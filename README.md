@@ -5,7 +5,7 @@ Integrantes del Equipo
 - Alumno B: Jaime Martínez
 
 Información del Módulo
-* **Módulo:** Lenguajes de Marcas y Sistemas de Gestión de Información
+* **Módulo:** Digitalización
 * **Curso:** 2026/2027
 
 Descripción del Proyecto
